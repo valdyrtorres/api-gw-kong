@@ -9,3 +9,14 @@ https://docs.konghq.com/gateway/latest/admin-api/#plugin-object
 
 PLUGIN
 Correlation ID
+
+Rate Limiting
+Gostaria que minha pi atendesse um volume de requisições
+
+Após esse volume, as requisições não chegam mais
+
+Configuração:
+5 requests por minuto
+limitado por ip
+policy local
+hide client headers - Testar com YES ou NO
