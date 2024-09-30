@@ -2,5 +2,10 @@ docker compose -f kong_compose.yml up
 
 https://github.com/devfullcycle/FC3-admin-catalogo-de-videos-api-gateway
 
+de acordo com as configurações, somente fica dois containers no ar
+os outros dois só ligam para fazer a migração
+
+https://docs.konghq.com/gateway/latest/admin-api/#plugin-object
+
 PLUGIN
 Correlation ID
