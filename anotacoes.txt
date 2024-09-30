@@ -1,3 +1,6 @@
 docker compose -f kong_compose.yml up
 
 https://github.com/devfullcycle/FC3-admin-catalogo-de-videos-api-gateway
+
+PLUGIN
+Correlation ID
