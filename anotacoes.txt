@@ -11,7 +11,7 @@ PLUGIN
 Correlation ID
 
 Rate Limiting
-Gostaria que minha pi atendesse um volume de requisições
+Gostaria que minha api atendesse um volume de requisições
 
 Após esse volume, as requisições não chegam mais
 
