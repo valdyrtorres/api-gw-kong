@@ -20,3 +20,8 @@ Configuração:
 limitado por ip
 policy local
 hide client headers - Testar com YES ou NO
+
+---------------------------------------------------------
+Fazendo a observabilidade
+
+docker compose -f kong_compose.yml up --build
