@@ -23,5 +23,5 @@ hide client headers - Testar com YES ou NO
 
 ---------------------------------------------------------
 Fazendo a observabilidade
-
-docker compose -f kong_compose.yml up --build
+prometheus
+http://localhost:3000/d/mY9p7dQmz/kong-official?orgId=1
